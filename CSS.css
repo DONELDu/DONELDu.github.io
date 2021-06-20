@@ -61,6 +61,9 @@ body {
 	text-align: center;
   }
 .knopka {
+	text-decoration: none;
+	display: block;
+	padding: 20px 40px	;
 	color: #FFF;
 	background-color: #000;
 	font-family: "Franklin Gothic";
